@@ -4,7 +4,7 @@
  xmlns:gap ="http://phonegap.com/ns/1.0"
  id ="com.phonegap.app9"
  version ="1.0.0">
- <name>App9 ¿Geolocalizacion</name>
+ <name>App9 Geolocalizacion</name>
  
   <description>
   Muestra la ubicacion del dispositivo de acuerdo al GPS
